@@ -28,11 +28,19 @@ A professional Flutter application that converts user-input text into spoken wor
    ```bash
    Install dependencies
 
-2.
+Install dependencies
+
+bash
+Copy
+Edit
 flutter pub get
 Run the application
-3.
+
+bash
+Copy
+Edit
 flutter run
+💡 Make sure microphone and audio permissions are granted on physical devices.
 
 📤 Submission Summary
 Apk link to download: https://github.com/yourusername/flutter-tts-app
@@ -63,8 +71,3 @@ lib/
 ├── views/
 │   └── text_to_speech_view.dart
 └── main.dart
-
-
-
-   git clone https://github.com/yourusername/flutter-tts-app.git
-   cd flutter-tts-app
