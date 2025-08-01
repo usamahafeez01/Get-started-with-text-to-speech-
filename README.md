@@ -29,16 +29,10 @@ A professional Flutter application that converts user-input text into spoken wor
    Install dependencies
 
 Install dependencies
-
-bash
-Copy
-Edit
+2.
 flutter pub get
-Run the application
 
-bash
-Copy
-Edit
+3.
 flutter run
 💡 Make sure microphone and audio permissions are granted on physical devices.
 
